@@ -1,0 +1,890 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.8.15)  12 OCT 2015 15:35
+entering extended mode
+ %&-line parsing enabled.
+**tbc_book.tex
+(./tbc_book.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/bk11.clo
+File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count88
+))
+(/usr/share/texmf-texlive/tex/latex/layouts/layouts.sty
+Package: layouts 2009/09/02 v2.6d graphical depiction of document elements
+\l@ylen=\skip43
+\layoutsbox=\box26
+\l@youtunitlength=\skip44
+\l@youtlinethick=\skip45
+\l@youtlinethickii=\skip46
+\l@ysetupparskip=\skip47
+\l@ysetupbaselineskip=\skip48
+\l@yonem=\skip49
+\l@yonex=\skip50
+\l@ylmarg=\skip51
+\l@yrmarg=\skip52
+\l@yitmindent=\skip53
+\l@ylblwidth=\skip54
+\l@ylblsep=\skip55
+\l@ylparindent=\skip56
+\l@ytsep=\skip57
+\l@ypskip=\skip58
+\l@yptsep=\skip59
+\l@ypsep=\skip60
+\l@yitmsep=\skip61
+\l@ytok=\toks14
+\l@youtpw=\count89
+\l@youtph=\count90
+\l@youthpi=\count91
+\l@youthpii=\count92
+\l@youthpiii=\count93
+\l@youthpiv=\count94
+\l@youthpv=\count95
+\l@youthpvi=\count96
+\l@youthpvii=\count97
+\l@youtparskip=\count98
+\l@youtvpi=\count99
+\l@youtvpii=\count100
+\l@youtvpiii=\count101
+\l@youtvpiv=\count102
+\l@youtvpv=\count103
+\l@youtvpvi=\count104
+\l@youtvpvii=\count105
+\l@youthdo=\count106
+\l@youthdi=\count107
+\l@youthdii=\count108
+\l@youthdiii=\count109
+\l@youthdiv=\count110
+\l@youthdv=\count111
+\l@youthdvi=\count112
+\l@youthdvii=\count113
+\l@youtvdo=\count114
+\l@youtvdi=\count115
+\l@youtvdii=\count116
+\l@youtvdiii=\count117
+\l@youtvdiv=\count118
+\l@youtvdv=\count119
+\l@youtvdvi=\count120
+\l@youtvdvii=\count121
+\l@youtvdviii=\count122
+\l@youtxci=\count123
+\l@youtxcii=\count124
+\l@youtxciii=\count125
+\l@youtxciv=\count126
+\l@youtxcv=\count127
+\l@youtxcvi=\count128
+\l@youtyci=\count129
+\l@youtycii=\count130
+\l@youtyciii=\count131
+\l@youtyciv=\count132
+\l@youtycv=\count133
+\l@youtycvi=\count134
+\l@youtycvii=\count135
+\l@youtycviii=\count136
+\l@youtxco=\count137
+\l@youtyco=\count138
+\l@ytempdima=\skip62
+\stockwidth=\skip63
+\stockheight=\skip64
+\trimedge=\skip65
+\trimtop=\skip66
+\uppermargin=\skip67
+\spinemargin=\skip68
+)
+(/usr/share/texmf-texlive/tex/latex/cclicenses/cclicenses.sty
+Package: cclicenses 2005/05/20 v0.4 CC licenses typesetting
+
+(/usr/share/texmf-texlive/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count139
+\rotFPtop=\skip69
+\rotFPbot=\skip70
+\rot@float@box=\box27
+\rot@mess@toks=\toks16
+)
+\chardim=\dimen105
+\hdim=\dimen106
+\htmp=\dimen107
+\hpos=\count140
+\vpos=\count141
+)
+(/usr/share/texmf-texlive/tex/latex/morefloats/morefloats.sty
+\bx@S=\insert233
+\bx@T=\insert232
+\bx@U=\insert231
+\bx@V=\insert230
+\bx@W=\insert229
+\bx@X=\insert228
+\bx@Y=\insert227
+\bx@Z=\insert226
+\bx@AA=\insert225
+\bx@BB=\insert224
+\bx@CC=\insert223
+\bx@DD=\insert222
+\bx@EE=\insert221
+\bx@FF=\insert220
+\bx@GG=\insert219
+\bx@HH=\insert218
+\bx@II=\insert217
+\bx@JJ=\insert216
+)
+(/usr/share/texmf-texlive/tex/latex/paralist/paralist.sty
+Package: paralist 2002/03/18 v2.3b Extended list environments (BS)
+\pltopsep=\skip71
+\plpartopsep=\skip72
+\plitemsep=\skip73
+\plparsep=\skip74
+\pl@lab=\toks17
+)
+(/usr/share/texmf-texlive/tex/latex/chngcntr/chngcntr.sty
+Package: chngcntr 2009/09/02 v1.0a change counter resetting
+)
+(/usr/share/texmf-texlive/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip75
+\f@ncyO@elh=\skip76
+\f@ncyO@erh=\skip77
+\f@ncyO@olh=\skip78
+\f@ncyO@orh=\skip79
+\f@ncyO@elf=\skip80
+\f@ncyO@erf=\skip81
+\f@ncyO@olf=\skip82
+\f@ncyO@orf=\skip83
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip84
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks18
+\ex@=\dimen108
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen109
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count142
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count143
+\leftroot@=\count144
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count145
+\DOTSCASE@=\count146
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen110
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count147
+\c@MaxMatrixCols=\count148
+\dotsspace@=\muskip10
+\c@parentequation=\count149
+\dspbrk@lvl=\count150
+\tag@help=\toks19
+\row@=\count151
+\column@=\count152
+\maxfields@=\count153
+\andhelp@=\toks20
+\eqnshift@=\dimen111
+\alignsep@=\dimen112
+\tagshift@=\dimen113
+\tagwidth@=\dimen114
+\totwidth@=\dimen115
+\lineht@=\dimen116
+\@envbody=\toks21
+\multlinegap=\skip85
+\multlinetaggap=\skip86
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf-texlive/tex/latex/base/makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+(/usr/share/texmf-texlive/tex/latex/fancybox/fancybox.sty
+Package: fancybox 2000/09/19 1.3
+
+Style option: `fancybox' v1.3 <2000/09/19> (tvz)
+\@fancybox=\box30
+\shadowsize=\dimen117
+\@Sbox=\box31
+\do@VerbBox=\toks23
+\the@fancyput=\toks24
+\this@fancyput=\toks25
+\EndVerbatimTokens=\toks26
+\Verbatim@Outfile=\write3
+\Verbatim@Infile=\read1
+) (/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(/usr/share/texmf-texlive/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 285.
+LaTeX Info: Redefining \nocite on input line 356.
+Package: cite 2009/08/29  v 5.2
+)
+(/usr/share/texmf-texlive/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/share/texmf-texlive/tex/latex/caption/caption.sty
+Package: caption 2009/10/09 v3.1k Customizing captions (AR)
+
+(/usr/share/texmf-texlive/tex/latex/caption/caption3.sty
+Package: caption3 2009/10/09 v3.1k caption3 kernel (AR)
+\captionmargin=\dimen118
+\captionmargin@=\dimen119
+\captionwidth=\dimen120
+\caption@indent=\dimen121
+\caption@parindent=\dimen122
+\caption@hangindent=\dimen123
+)
+\c@ContinuedFloat=\count154
+Package caption Info: rotating package is loaded.
+)
+\c@KVtest=\count155
+\sf@farskip=\skip87
+\sf@captopadj=\dimen124
+\sf@capskip=\skip88
+\sf@nearskip=\skip89
+\c@subfigure=\count156
+\c@subfigure@save=\count157
+\c@lofdepth=\count158
+\c@subtable=\count159
+\c@subtable@save=\count160
+\c@lotdepth=\count161
+\sf@top=\skip90
+\sf@bottom=\skip91
+)
+(/usr/share/texmf-texlive/tex/latex/listings/listings.sty
+\lst@mode=\count162
+\lst@gtempboxa=\box32
+\lst@token=\toks27
+\lst@length=\count163
+\lst@currlwidth=\dimen125
+\lst@column=\count164
+\lst@pos=\count165
+\lst@lostspace=\dimen126
+\lst@width=\dimen127
+\lst@newlines=\count166
+\lst@lineno=\count167
+\lst@maxwidth=\dimen128
+
+(/usr/share/texmf-texlive/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count168
+\lst@skipnumbers=\count169
+\lst@framebox=\box33
+)
+(/usr/share/texmf-texlive/tex/latex/listings/listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(/usr/share/texmf-texlive/tex/latex/tools/varioref.sty
+Package: varioref 2009/09/13 v1.4w package for extended references (FMi)
+\c@vrcnt=\count170
+)
+\@indexfile=\write4
+\openout4 = `tbc_book.idx'.
+
+
+Writing index file tbc_book.idx
+(./tbc_book.aux
+
+LaTeX Warning: Label `searchbox' multiply defined.
+
+
+LaTeX Warning: Label `mesh' multiply defined.
+
+
+LaTeX Warning: Label `mesh' multiply defined.
+
+
+LaTeX Warning: Label `boundary' multiply defined.
+
+
+LaTeX Warning: Label `geom' multiply defined.
+
+)
+\openout1 = `tbc_book.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+ (/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count171
+\scratchdimen=\dimen129
+\scratchbox=\box34
+\nofMPsegments=\count172
+\nofMParguments=\count173
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count174
+\MPscratchDim=\dimen130
+\MPnumerator=\count175
+\everyMPtoPDFconversion=\toks29
+)
+
+Package layouts Warning: Layout scale set to 0.5 on input line 67.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption3 Info: subfig package 1.2 or 1.3 is loaded.
+LaTeX Info: Redefining \subref on input line 67.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count176
+(./tbc_book.toc)
+\tf@toc=\write5
+\openout5 = `tbc_book.toc'.
+
+ [1
+
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+[2
+
+] (./tbc_book.lof [3])
+\tf@lof=\write6
+\openout6 = `tbc_book.lof'.
+
+ [4] (./tbc_book.lot)
+\tf@lot=\write7
+\openout7 = `tbc_book.lot'.
+
+ [5
+
+] [6
+
+]
+(./CHAPTERS/chap1/chapter1.tex
+Chapter 1.
+
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/dash.png, id=24, 63
+.23625pt x 61.22874pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/dash.png Graph
+ic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/dash.png>
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/password.png, id=25
+, 641.39626pt x 229.85875pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/password.png G
+raphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/password.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[1
+
+ </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/dash.png (PNG copy
+)>]
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/searchbox.png, id=3
+0, 799.98875pt x 89.33376pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/searchbox.png 
+Graphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/searchbox.png>
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/mark.png, id=31, 11
+09.14375pt x 252.945pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/mark.png Graph
+ic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/mark.png>
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 59.
+
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 59.
+ [2 </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/password.png (P
+NG copy)> </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/searchbox
+.png (PNG copy)> </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/ma
+rk.png (PNG copy)>]
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/terminal.png, id=35
+, 749.80125pt x 464.73625pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/terminal.png G
+raphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/terminal.png>
+[3 </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/terminal.png (PN
+G copy)>]
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/usage.png, id=41, 7
+49.80125pt x 399.4925pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/usage.png Grap
+hic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/usage.png>
+
+LaTeX Warning: Command \textunderscore invalid in math mode on input line 108.
+
+[4 </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/usage.png (PNG c
+opy)>]
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/geometry1.png, id=4
+5, 877.2775pt x 552.0625pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/geometry1.png 
+Graphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/geometry1.png>
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/blockMesh.png, id=4
+6, 676.5275pt x 681.54625pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/blockMesh.png 
+Graphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/blockMesh.png>
+[5 </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/geometry1.png (P
+NG copy)>]
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/solver.png, id=50, 
+673.51625pt x 679.53876pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/solver.png Gra
+phic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/solver.png>
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/paraview.png, id=51
+, 1024.82875pt x 695.59875pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/paraview.png G
+raphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/paraview.png>
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/geometry.png, id=52
+, 1020.81375pt x 696.6025pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/geometry.png G
+raphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/geometry.png>)
+(./CHAPTERS/chap2/chapter2.tex [6 </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS
+/chap1/figures/blockMesh.png (PNG copy)>]
+
+LaTeX Warning: Text page 7 contains only floats.
+
+[7 </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/solver.png (PNG 
+copy)> </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/paraview.png
+ (PNG copy)>] [8 </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap1/figures/ge
+ometry.png (PNG copy)>]
+Chapter 2.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
+[9
+
+]
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/geometry1.png, id=6
+6, 877.2775pt x 552.0625pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/geometry1.png 
+Graphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/geometry1.png>
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+
+[10 </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/geometry1.png (
+PNG copy)>]
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/vertices.png, id=70
+, 156.585pt x 206.7725pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/vertices.png G
+raphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/vertices.png>
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/blocks.png, id=71, 
+549.05125pt x 81.30376pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/blocks.png Gra
+phic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/blocks.png>
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/edges.png, id=72, 6
+4.24pt x 57.21375pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/edges.png Grap
+hic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/edges.png>
+[11 </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/vertices.png (P
+NG copy)> </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/blocks.pn
+g (PNG copy)>]
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/boundary.png, id=76
+, 797.98125pt x 558.085pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/boundary.png G
+raphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/boundary.png>
+[12 </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/edges.png (PNG 
+copy)> </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/boundary.png
+ (PNG copy)>]
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/boundary_name.png, 
+id=80, 278.03876pt x 552.0625pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/boundary_name.
+png Graphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/boundary_name.p
+ng>
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/merge.png, id=81, 1
+56.585pt x 61.22874pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/merge.png Grap
+hic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/merge.png>
+[13 </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/boundary_name.p
+ng (PNG copy)>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/paraview1.png, id=8
+6, 1302.8675pt x 746.79pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/paraview1.png 
+Graphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap2/figures/paraview1.png>
+Overfull \hbox (19.44113pt too wide) in paragraph at lines 129--130
+ [] 
+ []
+
+) (./CHAPTERS/chap3/chapter3.tex [14 </home/ttt/Desktop/book/cfd-openfoam/CHAPT
+ERS/chap2/figures/merge.png (PNG copy)>] [15 </home/ttt/Desktop/book/cfd-openfo
+am/CHAPTERS/chap2/figures/paraview1.png (PNG copy)>] [16
+
+]
+Chapter 3.
+
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/square.png, id=96, 
+833.1125pt x 543.02875pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/square.png Gra
+phic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/square.png>
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/cylmesh.jpeg, id=97
+, 965.85844pt x 610.53094pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/cylmesh.jpeg G
+raphic file (type jpg)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/cylmesh.jpeg>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[17]
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/conversion.png, id=
+102, 722.7pt x 263.98625pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/conversion.png
+ Graphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/conversion.png>
+[18 </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/square.png (PNG
+ copy)> </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/cylmesh.jpe
+g>]
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/boundary.png, id=10
+6, 891.33pt x 272.01625pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/boundary.png G
+raphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/boundary.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[19 </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/conversion.png 
+(PNG copy)>]
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/controldict.png, id
+=111, 529.98pt x 416.55624pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/controldict.pn
+g Graphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/controldict.png
+> [20 </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/boundary.png 
+(PNG copy)> </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/control
+dict.png (PNG copy)>]
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/geom-paraview.png, 
+id=115, 1012.78375pt x 694.595pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/geom-paraview.
+png Graphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/geom-paraview.p
+ng>
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/vel.png, id=116, 10
+11.78pt x 690.58pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/vel.png Graphi
+c file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/vel.png>
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/vel-1.png, id=117, 
+1013.7875pt x 692.5875pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/vel-1.png Grap
+hic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/vel-1.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21 </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/geom-paraview.
+png (PNG copy)> </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap3/figures/vel
+.png (PNG copy)>]) (./CHAPTERS/chap4/chapter4.tex [22 </home/ttt/Desktop/book/c
+fd-openfoam/CHAPTERS/chap3/figures/vel-1.png (PNG copy)>]
+Chapter 4.
+
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/synaptic-gmsh.png, 
+id=124, 1208.515pt x 220.825pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/synaptic-gmsh.
+png Graphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/synaptic-gmsh.p
+ng>
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/download-gmsh.png, 
+id=125, 907.39pt x 201.75375pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/download-gmsh.
+png Graphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/download-gmsh.p
+ng> [23
+
+ </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/synaptic-gmsh.png 
+(PNG copy)>]
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/gmsh-icon.png, id=1
+29, 601.24625pt x 226.8475pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/gmsh-icon.png 
+Graphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/gmsh-icon.png>
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/gmsh-start.png, id=
+130, 949.5475pt x 675.52374pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/gmsh-start.png
+ Graphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/gmsh-start.png>
+
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/geometry1.png, id=1
+31, 877.2775pt x 552.0625pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/geometry1.png 
+Graphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/geometry1.png>
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/point-gmsh.png, id=
+132, 367.3725pt x 244.915pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/point-gmsh.png
+ Graphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/point-gmsh.png>
+
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/cube-gmsh.png, id=1
+33, 946.53625pt x 672.5125pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/cube-gmsh.png 
+Graphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/cube-gmsh.png>
+[24 </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/download-gmsh.p
+ng (PNG copy)> </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/gmsh
+-icon.png (PNG copy)>]
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/face-red.png, id=13
+7, 922.44624pt x 674.52pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/face-red.png G
+raphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/face-red.png>
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/face-cl.png, id=138
+, 944.52875pt x 673.51625pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/face-cl.png Gr
+aphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/face-cl.png>
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/face-all.png, id=13
+9, 943.525pt x 674.52pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/face-all.png G
+raphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/face-all.png>
+[25 </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/gmsh-start.png 
+(PNG copy)> </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/geometr
+y1.png (PNG copy)>]
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/vol-gmsh.png, id=14
+4, 947.54pt x 678.535pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/vol-gmsh.png G
+raphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/vol-gmsh.png>
+[26 </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/point-gmsh.png 
+(PNG copy)> </home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/cube-gm
+sh.png (PNG copy)>]) (./CHAPTERS/chap5/chapter5.tex [27 </home/ttt/Desktop/book
+/cfd-openfoam/CHAPTERS/chap4/figures/face-red.png (PNG copy)> </home/ttt/Deskto
+p/book/cfd-openfoam/CHAPTERS/chap4/figures/face-cl.png (PNG copy)>] [28 </home/
+ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/face-all.png (PNG copy)> <
+/home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap4/figures/vol-gmsh.png (PNG co
+py)>]
+Chapter 5.
+[29
+
+]
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap5/figures/navi.png, id=157, 1
+95.73125pt x 664.4825pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap5/figures/navi.png Graph
+ic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap5/figures/navi.png>
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap5/figures/details.png, id=158
+, 1085.05376pt x 435.6275pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap5/figures/details.png Gr
+aphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap5/figures/details.png>
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap5/figures/link.png, id=159, 8
+30.10126pt x 438.63875pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap5/figures/link.png Graph
+ic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap5/figures/link.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap5/figures/pass.png, id=160, 1
+067.99pt x 463.7325pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap5/figures/pass.png Graph
+ic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap5/figures/pass.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap5/figures/binary.png, id=161,
+ 1061.9675pt x 266.9975pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap5/figures/binary.png Gra
+phic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap5/figures/binary.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+</home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap5/figures/universal.png, id=1
+62, 632.3625pt x 118.4425pt>
+File: /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap5/figures/universal.png 
+Graphic file (type png)
+
+<use /home/ttt/Desktop/book/cfd-openfoam/CHAPTERS/chap5/figures/universal.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./CHAPTERS/chap6/chapter6.tex [30 </home/ttt/Desktop/book/cfd-openfoam/CHAPT
+ERS/chap5/figures/navi.png (PNG copy)> </home/ttt/Desktop/book/cfd-openfoam/CHA
+PTERS/chap5/figures/details.png (PNG copy)>] [31 </home/ttt/Desktop/book/cfd-op
+enfoam/CHAPTERS/chap5/figures/link.png (PNG copy)> </home/ttt/Desktop/book/cfd-
+openfoam/CHAPTERS/chap5/figures/pass.png (PNG copy)> </home/ttt/Desktop/book/cf
+d-openfoam/CHAPTERS/chap5/figures/binary.png (PNG copy)>] [32 </home/ttt/Deskto
+p/book/cfd-openfoam/CHAPTERS/chap5/figures/universal.png (PNG copy)>]
+Chapter 6.
+) [33
+
+] (./tbc_book.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5409 strings out of 493848
+ 85814 string characters out of 1152823
+ 164544 words of memory out of 3000000
+ 8552 multiletter control sequences out of 15000+50000
+ 11519 words of font info for 41 fonts, out of 3000000 for 9000
+ 716 hyphenation exceptions out of 8191
+ 44i,8n,43p,716b,391s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
+re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts
+/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-texlive/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
+m/cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b>
+Output written on tbc_book.pdf (39 pages, 2411403 bytes).
+PDF statistics:
+ 201 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 221 words of extra memory for PDF output out of 10000 (max. 10000000)
+

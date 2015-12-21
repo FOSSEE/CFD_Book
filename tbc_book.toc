@@ -1,0 +1,25 @@
+\thispagestyle {empty}
+\contentsline {chapter}{\numberline {1}Installing OpenFOAM and Paraview}{1}
+\contentsline {section}{\numberline {1.1}Installation using Synaptic Package Manager}{1}
+\contentsline {section}{\numberline {1.2}Installtion from OpenFOAM website}{2}
+\contentsline {section}{\numberline {1.3}Installation using Source Code}{4}
+\contentsline {section}{\numberline {1.4}Example Problem - Lid Driven Cavity}{5}
+\contentsline {chapter}{\numberline {2}Creating a Simple Geomtery in OpenFoam}{9}
+\contentsline {section}{\numberline {2.1}Geometry creation}{9}
+\contentsline {section}{\numberline {2.2}blockMeshDict}{10}
+\contentsline {chapter}{\numberline {3}Importing Mesh From Third Party Software in OpenFOAM}{17}
+\contentsline {section}{\numberline {3.1}Geometry}{17}
+\contentsline {section}{\numberline {3.2}Meshing}{17}
+\contentsline {section}{\numberline {3.3}Importing the mesh file}{17}
+\contentsline {section}{\numberline {3.4}Boundary Conditions}{19}
+\contentsline {section}{\numberline {3.5}Solver settings}{20}
+\contentsline {section}{\numberline {3.6}Post-Processing}{20}
+\contentsline {section}{\numberline {3.7}Mesh Conversion Commands}{22}
+\contentsline {chapter}{\numberline {4}Installing and Running Gmsh}{23}
+\contentsline {section}{\numberline {4.1}Installing Gmsh}{23}
+\contentsline {subsection}{\numberline {4.1.1}Create Faces}{25}
+\contentsline {subsection}{\numberline {4.1.2}Creating Volume}{26}
+\contentsline {subsection}{\numberline {4.1.3}Physical Groups}{26}
+\contentsline {chapter}{\numberline {5}Downloading and Installing Salome}{29}
+\contentsline {section}{\numberline {5.1}Download Salome}{29}
+\contentsline {chapter}{\numberline {6}}{33}
